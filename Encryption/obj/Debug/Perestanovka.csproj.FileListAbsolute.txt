@@ -1,0 +1,11 @@
+C:\Users\Den\source\repos\Encryption\Encryption\bin\Debug\Encryption.exe.config
+C:\Users\Den\source\repos\Encryption\Encryption\bin\Debug\Encryption.exe
+C:\Users\Den\source\repos\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Users\Den\source\repos\Encryption\Encryption\obj\Debug\Perestanovka.csprojAssemblyReference.cache
+C:\Users\Den\source\repos\Encryption\Encryption\obj\Debug\Encryption.FormEncrup.resources
+C:\Users\Den\source\repos\Encryption\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+C:\Users\Den\source\repos\Encryption\Encryption\obj\Debug\Perestanovka.csproj.GenerateResource.cache
+C:\Users\Den\source\repos\Encryption\Encryption\obj\Debug\Perestanovka.csproj.CoreCompileInputs.cache
+C:\Users\Den\source\repos\Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Users\Den\source\repos\Encryption\Encryption\obj\Debug\Encryption.pdb
+C:\Users\Den\source\repos\Encryption\Encryption\obj\Debug\Encryption.FormViginer.resources
